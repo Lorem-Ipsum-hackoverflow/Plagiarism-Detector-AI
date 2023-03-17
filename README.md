@@ -30,6 +30,8 @@ Creates a set containing all unique words across both documents.
 Creates separate frequency vectors for each document with zero values where a word is not present in that respective document. Computes the cosine similarity score between the frequency vectors for each document.
  Displays the similarity score in percentage.
  
+ To see it working, first clone this repository. Then open app.py and run it. Then you can either go to localhost on port 5000 or come here and click the link below.
+ 
  webpage link:[Plagiarismchecker](http://127.0.0.1:5000/)
  
  Results:
