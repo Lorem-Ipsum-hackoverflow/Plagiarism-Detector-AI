@@ -28,6 +28,6 @@ Asks the user to enter the text of two documents so that they can be compared.
 Creates a set containing all unique words across both documents.
 
 Creates separate frequency vectors for each document with zero values where a word is not present in that respective document. Computes the cosine similarity score between the frequency vectors for each document.
- Displays the similarity score rounded to two decimal places.
+ Displays the similarity score in percentage.
  
  This model has been built by [@JustBaguette](https://github.com/JustBaguette) , [@Athena-2003](https://github.com/Athena-2003) and [@Sinchana-SH](https://github.com/Sinchana-SH) as team for Hackoverflow 0.1
