@@ -30,4 +30,15 @@ Creates a set containing all unique words across both documents.
 Creates separate frequency vectors for each document with zero values where a word is not present in that respective document. Computes the cosine similarity score between the frequency vectors for each document.
  Displays the similarity score in percentage.
  
+ Results:
+ 
+ ![Screenshot (50)](https://user-images.githubusercontent.com/116704673/225898747-0d88203c-5b31-4124-8014-aaea65c5dd83.png)
+ ![Screenshot (51)](https://user-images.githubusercontent.com/116704673/225898816-2d598f5b-382c-44c9-8bfc-a5dc1c5ea0bf.png)
+ ![Screenshot (54)](https://user-images.githubusercontent.com/116704673/225898849-d0d64bb9-f76c-46d4-9f12-e40ab1df3ae8.png)
+ ![Screenshot (52)](https://user-images.githubusercontent.com/116704673/225898878-47057d02-2a09-412b-bf7e-661bfdc06f83.png)
+
+
+
+
+ 
  This model has been built by [@JustBaguette](https://github.com/JustBaguette) , [@Athena-2003](https://github.com/Athena-2003) and [@Sinchana-SH](https://github.com/Sinchana-SH) as team for Hackoverflow 0.1
