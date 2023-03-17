@@ -17,9 +17,18 @@
 
 
 </head>
-<body style="background-color: #FFF5DA;">
-    
-    <h1>Plagiarism Checker</h1>
+<body>
+
+    <div style="background: url('/static/blurry-gradient-haikei.svg');" class="front">
+        <div class="f1">
+            <p class="heading">Plagiarism Checker</p>
+        </div>
+        <div class="f2">
+
+        </div>
+    </div>
+    <div class="sep"> <img src="/static/wave-haikei.svg" alt=""></div>
+   
 
     <div>
             <form class="cont" action="" method="post" style="text-align: center;">
@@ -41,7 +50,7 @@
 
         {% if similarpar %}
             <div class="result" >
-                <h3 > The percent similarity is {{similarpar}}% </h3>
+                <h3 > The two texts are {{similarpar}}% similar.</h3>
             </div>
         {% endif %}
     

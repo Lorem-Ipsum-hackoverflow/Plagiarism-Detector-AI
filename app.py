@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 @app.route('/', methods= ['GET','POST'])
 def index(similarpar = 0):
-        del paras1 , paras2 , par1 , par2, similarpar
+        # del paras1 , paras2 , par1 , par2, similarpar
         try :
             par1 =  request.form.get('para1')
             par2 = request.form.get('para2')

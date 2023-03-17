@@ -1,10 +1,33 @@
 
 
-h1 {
+.heading {
     text-align: center;
     font-family: 'Kanit', sans-serif;
     padding: 50px;
+    font-size: 80px;
+    font-weight: bold;
+    color: #FFF;
 }
+
+.front {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+
+}
+
+.f1 {
+    flex: 1;
+}
+
+.f2 {
+    flex: 1.5;
+    background: url('/static/C0L9XUTO_4x.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 13%;
+}
+
 
 .intext {
     display: block;
@@ -31,11 +54,16 @@ h1 {
 
 .submit {
     position: absolute;
-    top: 75vh;
+    top: 190vh;
     left: 47vw;
 }
 
 .result {
-    margin: 100px;
+    margin: 110px;
     text-align: center;
+}
+
+span {
+    font-family: 'Kanit', sans-serif;
+    font-size: 40px;
 }
