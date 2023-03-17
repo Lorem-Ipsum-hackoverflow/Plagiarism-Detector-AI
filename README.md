@@ -43,4 +43,4 @@ Creates separate frequency vectors for each document with zero values where a wo
 
 
  
- This model has been built by [@JustBaguette](https://github.com/JustBaguette) , [@Athena-2003](https://github.com/Athena-2003) and [@Sinchana-SH](https://github.com/Sinchana-SH) as team for Hackoverflow 0.1
+ This model has been built by [@JustBaguette](https://github.com/JustBaguette) , [@Athena-2003](https://github.com/Athena-2003) and [@Sinchana-SH](https://github.com/Sinchana-SH) as team for Hackoverflow 1.0
