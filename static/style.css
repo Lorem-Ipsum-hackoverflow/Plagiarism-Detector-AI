@@ -76,3 +76,10 @@ span {
     font-family: 'Kanit', sans-serif;
     font-size: 40px;
 }
+
+.footer {
+    text-align: center;
+    background-color: #5b62ee;
+    padding: 7%;
+    color: #FFF;
+}
