@@ -1,9 +1,11 @@
 
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
 
 .heading {
     text-align: left;
-    font-family: 'Kanit', sans-serif;
-    padding: 50px;
+    font-family: 'Cinzel', serif;
+    padding: 80px;
     font-size: 80px;
     font-weight: bold;
     color: #FFF;
@@ -26,6 +28,13 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding: 13%;
+}
+
+.slogan {
+    color: #DFFFD8;
+    font-size: 60px;
+    padding-left: 80px;
+    font-family: 'Bebas Neue', cursive;
 }
 
 
